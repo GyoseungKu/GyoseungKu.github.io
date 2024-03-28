@@ -1,3 +1,1 @@
 # GyoseungKu.github.io
-
-Hello
